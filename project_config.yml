@@ -1,0 +1,22 @@
+title: ki Sprint 11A Descriptive Analysis of CADU-SINASC
+synapse_id: syn13879248
+data:
+  core: ~
+  discovered:
+    syn17014798:
+      path: data/discovered/snsc_2001-2015.rds
+      modified: '2018-10-23T19:44:44.669Z'
+      version: 1.0
+    syn17015045:
+      path: data/discovered/snsc_2011-2015.rds
+      modified: '2018-10-23T21:37:12.608Z'
+      version: 1.0
+    syn17015084:
+      path: data/discovered/icd10_2018.rds
+      modified: '2018-10-23T22:59:05.106Z'
+      version: 1.0
+    syn17015109:
+      path: data/discovered/sim_2001-2015.rds
+      modified: '2018-10-24T00:12:30.811Z'
+      version: 1.0
+  derived: ~

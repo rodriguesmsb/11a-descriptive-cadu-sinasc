@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.rda
+.png
+.jpeg
+.pdf
+data/core
+data/derived
+data/discovered
