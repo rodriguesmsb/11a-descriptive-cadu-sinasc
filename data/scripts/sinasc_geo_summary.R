@@ -19,3 +19,5 @@ snsc_geo_state <- geo_summary(vars(birth_year, birth_state_code))
 snsc_geo_micro <- geo_summary(vars(birth_year, birth_micro_code))
 snsc_geo_meso <- geo_summary(vars(birth_year, birth_meso_code))
 snsc_geo_muni <- geo_summary(vars(birth_year, birth_muni_code))
+
+# test
